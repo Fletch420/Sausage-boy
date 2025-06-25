@@ -1,0 +1,67 @@
+/* sausage-theme.css */
+
+body {
+  background-color: #fff8f0; /* light sausage casing */
+  color: #4b2e18; /* smoked meat brown */
+  font-family: 'Georgia', serif;
+  line-height: 1.7;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  color: #8b0000; /* deep sausage red */
+}
+
+a {
+  color: #a83232;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5e3c1c;
+  text-decoration: underline;
+}
+
+code, pre {
+  background-color: #f5e6d0; /* fat & salt background */
+  padding: 0.25rem 0.5rem;
+  border-radius: 5px;
+  font-family: monospace;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #d3b89b; /* twine tan */
+  margin: 2rem 0;
+}
+
+nav a {
+  margin-right: 1rem;
+  font-weight: bold;
+  color: #a83232;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 2px solid #d3b89b;
+  border-radius: 20px;
+  padding: 2rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+img {
+  border-radius: 12px;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+}
+
+footer {
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  text-align: center;
+  color: #5e3c1c;
+}
