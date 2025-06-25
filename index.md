@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/css/sausage-theme.css">
+<link rel="stylesheet" href="/sausage-theme.css">
 
 # 🥩 Welcome to Sausage Culture in the Austrian Alps
 
