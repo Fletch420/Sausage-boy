@@ -46,5 +46,3 @@ We welcome contributions from cultural researchers, food historians, locals, and
 For questions or collaboration inquiries, please reach out via [GitHub Issues](https://github.com/your-username/sausage-culture-austrian-alps/issues) or email us at: [sausage.alps@heritageproject.org](mailto:sausage.alps@heritageproject.org)
 
 ---
-
-Preserving flavor, tradition, and community — one sausage at a time.
