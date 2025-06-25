@@ -2,7 +2,7 @@
 layout: default
 title: Sausage Culture in the Austrian Alps
 ---
-<link rel="stylesheet" href="/css/sausage_theme.css">
+
 
 # 🥩 Welcome to Sausage Culture in the Austrian Alps
 
