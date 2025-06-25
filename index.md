@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/css/sausage-theme.css">
+
 # 🥩 Welcome to Sausage Culture in the Austrian Alps
 
 Explore the delicious heritage of alpine sausage traditions — from the smoky valleys of Tyrol to the festive village squares of Salzburg.
